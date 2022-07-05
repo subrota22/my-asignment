@@ -30,6 +30,7 @@ body{
    font-size: 1.5rem; 
    margin-bottom: 8rem;
 }
+button{ font-family: 'Poppins', sans-serif; font-weight: bolder;}
 button:hover{cursor: pointer;}
 /*donate div end form here */
 /*Head div text start form here */
