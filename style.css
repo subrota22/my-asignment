@@ -1,0 +1,200 @@
+*{box-sizing: border-box; margin: 0%;}
+body{
+    font-family: 'Poppins', sans-serif;
+}
+/*donate div start form here */
+.donate{
+    background-image: url("images/donation3.jpg");
+    background-repeat: no-repeat;
+    background-size: 100%;
+    width: 100%; 
+    height: auto;
+    padding: 2rem;
+    margin-bottom: 8rem;
+}
+.headParagraphText{
+    color: white; 
+    font-size: 2rem; 
+    text-align: center; }
+.head-text{
+    font-size: 5rem; 
+     text-align: center;
+     color: white;}
+.button{
+    padding: 1.4rem; 
+    background-color:red; 
+    color: white; 
+    border-radius: 1rem;
+    border: none; 
+    margin-left: 45%; 
+   font-size: 1.5rem; 
+   margin-bottom: 8rem;
+}
+button:hover{cursor: pointer;}
+/*donate div end form here */
+/*Head div text start form here */
+.HeadDivtext{
+    text-align: center;
+     justify-content: center; 
+     font-size: 2rem;
+     margin-bottom: 8rem;
+    }
+    /*Head div text end form here */
+
+ /*Donate Amount  start form here */
+.donateAmout{
+    width: 100%;
+}
+.donateAmout > ul > li {
+    list-style-type: none;
+    list-style-position: inside;
+    background-color: aliceblue;
+    padding: 3rem;
+    font-size: 3rem;
+    text-align: center;
+    margin-left: 10rem;
+    float: left;
+    margin-bottom: 8rem;
+}
+.twoHundred{
+    border: 0.2rem solid red;
+    background-color: rgba(192, 11, 72, 0.3);
+    padding: 4rem;
+    width: 30rem;
+    color: red;
+    font-weight: 700;
+}
+ /*Donate Amount  end form here */
+
+  /*Donate field start form here */
+  .donateField{
+    margin-left: 45%;
+}
+#textField{
+    border-left: none;
+    border-top: none;
+    border-right: none;
+    border-bottom: none;
+    font-size: 2rem;
+}
+.button2{
+    padding: 1.6rem; 
+    background-color:red; 
+    color: white; 
+    border-radius: 0.8rem;
+    border: none; 
+    font-size: 1.5rem; 
+    margin-bottom: 8rem;
+}
+/*Donate field  end form here */
+
+  /*Donate Planing div start form here */
+.dontaPalanDiv{
+    width: 100%;
+    display: flex;
+    margin-bottom: 8rem;
+}
+.leftSide{
+    width: 30%;
+    background-color: rgba(187, 211, 211 , 0.4);
+    padding: 0.2rem;
+    text-align: center;
+    justify-content: center;
+    height: auto;
+    margin-left: 3rem;
+}
+.mainSide{
+    width: 30%;
+    background-color:rgba(194, 17, 76 ,0.4);
+    text-align: center;
+    justify-content: center;
+    height: auto;
+    padding: 0.2rem;
+    margin-left: 4rem;
+}
+
+.rightSide{
+    width: 30%;
+    background-color:rgba(255, 166, 0, 0.4);
+    text-align: center;
+    justify-content: center;
+    height: auto;
+    margin-left: 4rem;
+    padding: 0.3rem;
+}
+  /*Donate Planing div end form here */
+
+  /*Live donate div start form here */
+ .livesDonate {
+    width: 100%;
+    display: flex;
+}
+.livesDonate > .leftSideDoante{
+    width: 55%;
+    height: auto;
+    padding: 2rem;
+}
+
+.livesDonate > .rightSideDonate{
+    width: 40%;
+    height: auto;
+    padding: 2rem;
+}
+.continueButton{
+    padding: 1.6rem; 
+    background-color:red; 
+    color: white; 
+    border-radius: 0.8rem;
+    border: none; 
+    font-size: 1.5rem; 
+    margin-bottom: 8rem;
+}
+.dontationImage{
+    width: 40rem;
+    height: 40rem;
+}
+  /*Live donate div end form here */
+
+  /*footer div start form here */
+.form{
+    background-color: rgba(211, 198, 11, 0.5);
+    margin: auto;
+    padding: 4rem;
+    width: 50%;
+}
+.form-group{display: flex;}
+#email{
+    border: none;
+    width: 70%;
+    padding: 2rem;
+    font-size: 3rem;
+}
+.subscribe{
+    border: none;
+    width: 45%;
+    padding: 2rem;
+    background-color: brown;
+    color: white;
+    font-size: 2rem;
+}
+    /*footer  div end form here */
+/*RWD start from here */
+html{font-size: 62.5%;}
+@media all and (max-width:1200px) {
+    html{font-size: 60.5%;}
+}
+
+@media all and (max-width:1000px) {
+    html{font-size:50.5%;}
+}
+@media all and (max-width:900px) {
+    html{font-size: 40.5%;}
+}
+@media all and (max-width:700px) {
+    html{font-size: 34.5%;}
+}
+@media all and (max-width:500px) {
+    html{font-size: 26.5%;}
+}
+/*RWD end  from here */
+
