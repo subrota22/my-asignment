@@ -1,233 +1,202 @@
 *{box-sizing: border-box; margin: 0%;}
 body{
-    font-family: 'Poppins', sans-serif;
+font-family: 'Poppins', sans-serif;
 }
 /*donate div start form here */
 .donate{
-    background-image: url("images/donation3.jpg");
-    background-repeat: no-repeat;
-    background-size: 100%;
-    width: 100%; 
-    height: auto;
-    padding: 2rem;
-    margin-bottom: 8rem;
+background-image: url("images/donation3.jpg");
+background-repeat: no-repeat;
+background-size: 100%;
+width: 100%; 
+height: auto;
+padding: 20px;
+margin-bottom: 80px;
 }
 .headParagraphText{
-    color: white; 
-    font-size: 2rem; 
-    text-align: center; }
+color: white; 
+font-size: 20px; 
+text-align: center; }
 .head-text{
-    font-size: 5rem; 
-     text-align: center;
-     color: white;}
+font-size: 50px; 
+text-align: center;
+color: white;}
 .button{
-    padding: 1.4rem; 
-    background-color:red; 
-    color: white; 
-    border-radius: 1rem;
-    border: none; 
-    margin-left: 45%; 
-   font-size: 1.5rem; 
-   margin-bottom: 8rem;
+padding: 14px; 
+background-color:red; 
+color: white; 
+border-radius: 10px;
+border: none; 
+margin-left: 45%; 
+font-size: 15px; 
+margin-bottom: 80px;
 }
 button{ font-family: 'Poppins', sans-serif; font-weight: bolder;}
-button:hover{cursor: pointer;}
 button{
-        font-family: 'Poppins', sans-serif;
+font-family: 'Poppins', sans-serif;
 }
 /*donate div end form here */
 /*Head div text start form here */
 .HeadDivtext{
-    text-align: center;
-     justify-content: center; 
-     font-size: 2rem;
-     margin-bottom: 8rem;
-    }
-    /*Head div text end form here */
+text-align: center;
+justify-content: center; 
+font-size: 20px;
+margin-bottom: 80px;
+}
+/*Head div text end form here */
 
- /*Donate Amount  start form here */
+/*Donate Amount  start form here */
 .donateAmout{
-    width: 100%;
+width: 100%;
 }
 .donateAmout > ul > li {
-    list-style-type: none;
-    list-style-position: inside;
-    background-color: aliceblue;
-    width: 14rem;
-    padding: 3rem;
-    font-size: 3rem;
-    text-align: center;
-    margin-left: 10rem;
-    float: left;
-    margin-bottom: 8rem;
-    border-radius: 1rem;
+list-style-type: none;
+list-style-position: inside;
+background-color: aliceblue;
+width: 140px;
+padding: 30px;
+font-size: 30px;
+text-align: center;
+margin-left: 100px;
+float: left;
+margin-bottom: 80px;
+border-radius: 10px;
 }
 .twoHundred{
-    border: 0.2rem solid red;
-    background-color: rgba(192, 11, 72, 0.3);
-    padding: 3rem;
-    width: 28rem;
-    color: red;
-    font-weight: 700;
-    margin-left: -2.8rem;
-   border-radius: 1rem;
+border: 2px solid red;
+background-color: rgba(192, 11, 72, 0.3);
+padding: 30px;
+width: 280px;
+color: red;
+font-weight: 700;
+margin-left: -28px;
+border-radius: 10px;
 }
- /*Donate Amount  end form here */
+/*Donate Amount  end form here */
 
-  /*Donate field start form here */
-  .donateField{
-    margin-left: 45%;
+/*Donate field start form here */
+.donateField{
+margin-left: 45%;
 }
 #textField{
-    border: none;
-    font-size: 2rem;
-    margin-left: -5rem;
-}
-#textField:focus{
-    width: 30rem; 
-    border: 0.4rem solid lime;
-    padding: 2rem;
-    color: lime;
-    border-radius: 1rem;
+border: none;
+font-size: 20px;
+width: 480px;
+padding: 20px;
+text-align: center;
+margin-left:-870px;
+justify-content: center;
+margin-top: 40px;
+margin-bottom: 4px;
 }
 .button2{
-    padding: 1.6rem; 
-    background-color:red; 
-    color: white; 
-    border-radius: 0.8rem;
-    border: none; 
-    font-size: 1.5rem; 
-    margin-bottom: 8rem;
+padding: 16px; 
+background-color:red; 
+color: white; 
+border-radius: 8px;
+border: none; 
+font-size: 15px; 
+margin-bottom: 80px;
 }
 /*Donate field  end form here */
 
-  /*Donate Planing div start form here */
+/*Donate Planing div start form here */
 .dontaPalanDiv{
-    width: 100%;
-    display: flex;
-    margin-bottom: 8rem;
+width: 100%;
+display: flex;
+margin-bottom: 80px;
 }
 .leftSide{
-    width: 30%;
-    background-color: rgba(187, 211, 211 , 0.4);
-    padding: 0.2rem;
-    text-align: center;
-    justify-content: center;
-    height: auto;
-    margin-left: 3rem;
-    border-radius: 2rem;
+width: 30%;
+background-color: rgba(187, 211, 211 , 0.4);
+padding: 2px;
+text-align: center;
+justify-content: center;
+height: auto;
+margin-left: 30px;
+border-radius: 20px;
 }
 .mainSide{
-    width: 30%;
-    background-color:rgba(194, 17, 76 ,0.4);
-    text-align: center;
-    justify-content: center;
-    height: auto;
-    padding: 0.2rem;
-    margin-left: 4rem;
-    border-radius: 2rem;
+width: 30%;
+background-color:rgba(194, 17, 76 ,0.4);
+text-align: center;
+justify-content: center;
+height: auto;
+padding: 2px;
+margin-left: 40px;
+border-radius: 20px;
 }
 
 .rightSide{
-    width: 30%;
-    background-color:rgba(255, 166, 0, 0.4);
-    text-align: center;
-    justify-content: center;
-    height: auto;
-    margin-left: 4rem;
-    padding: 0.3rem;
-    border-radius: 2rem;
+width: 30%;
+background-color:rgba(255, 166, 0, 0.4);
+text-align: center;
+justify-content: center;
+height: auto;
+margin-left: 40px;
+padding: 3px;
+border-radius: 20px;
 }
-.leftSide:hover, .mainSide:hover , .rightSide:hover {
-transform: scale(0.8);
-transition-duration: 1s;
-}
-  /*Donate Planing div end form here */
 
-  /*Live donate div start form here */
- .livesDonate {
-    width: 100%;
-    display: flex;
+/*Donate Planing div end form here */
+
+/*Live donate div start form here */
+.livesDonate {
+width: 100%;
+display: flex;
 }
 .livesDonate > .leftSideDoante{
-    width: 55%;
-    height: auto;
-    padding: 2rem;
+width: 55%;
+height: auto;
+padding: 20px;
 }
 
 .livesDonate > .rightSideDonate{
-    width: 40%;
-    height: auto;
-    padding: 2rem;
+width: 40%;
+height: auto;
+padding: 20px;
 }
 .continueButton{
-    padding: 1.6rem; 
-    background-color:red; 
-    color: white; 
-    border-radius: 0.8rem;
-    border: none; 
-    font-size: 1.5rem; 
-    margin-bottom: 8rem;
+padding: 16px; 
+background-color:red; 
+color: white; 
+border-radius:8px;
+border: none; 
+font-size: 15px; 
+margin-bottom: 8rem;
 }
 .dontationImage{
-    width: 51rem;
-    height: 40rem;
-    border-radius: 2rem;
-    box-shadow: 0 2rem 7rem;
-    border: 0.3rem solid blue;
+width: 510px;
+height: 400px;
+border-radius: 20px;
+box-shadow: 0 15px 50px;
+border: 3px solid blue;
 }
-.dontationImage:hover{
-    transform: scale(0.8);
-    transition-duration: 1s;
-}
-  /*Live donate div end form here */
+/*Live donate div end form here */
 
-  /*footer div start form here */
+/*footer div start form here */
 .form{
-    background-color: rgba(211, 198, 11, 0.5);
-    margin: auto;
-    padding: 7rem;
-    width: 60%;
-    height: 25rem;
-    border-radius: 1rem;
+background-color: rgba(211, 198, 11, 0.5);
+margin: auto;
+padding: 70px;
+width: 60%;
+height: 250px;
+border-radius: 10px;
 }
-.form-group{display: flex; margin-top: 2.8rem;}
+.form-group{display: flex; margin-top: 28px;}
 #email{
-    border: none;
-    width: 80%;
-    padding: 1.7rem;
-    font-size: 3rem;
-    border-bottom-left-radius: 6rem;
-    border-top-left-radius: 6rem;
+border: none;
+width: 80%;
+padding: 17;
+font-size: 30px;
+background-color: aliceblue;
+padding-left: 12px;
 }
 .subscribe{
-    border: none;
-    width: 40%;
-    padding: 1.7rem;
-    background-color: brown;
-    color: white;
-    font-size: 2rem;
-    border-bottom-right-radius: 6rem;
-    border-top-right-radius: 6rem;
+border: none;
+width: 40%;
+padding: 17px;
+background-color: brown;
+color: white;
+font-size: 20px;
 }
-    /*footer  div end form here */
-/*RWD start from here */
-html{font-size: 62.5%;}
-@media all and (max-width:1200px) {
-    html{font-size: 60.5%;}
-}
-
-@media all and (max-width:1000px) {
-    html{font-size:50.5%;}
-}
-@media all and (max-width:900px) {
-    html{font-size: 40.5%;}
-}
-@media all and (max-width:700px) {
-    html{font-size: 34.5%;}
-}
-@media all and (max-width:500px) {
-    html{font-size: 20.5%;}
-}
-/*RWD end  from here */
-
+/*footer  div end form here */
