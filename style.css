@@ -170,7 +170,7 @@ transition-duration: 1s;
     margin-bottom: 8rem;
 }
 .dontationImage{
-    width: 40rem;
+    width: 51rem;
     height: 40rem;
     border-radius: 2rem;
     box-shadow: 0 2rem 7rem;
@@ -197,8 +197,8 @@ transition-duration: 1s;
     width: 80%;
     padding: 1.7rem;
     font-size: 3rem;
-    border-bottom-left-radius: 3rem;
-    border-top-left-radius: 3rem;
+    border-bottom-left-radius: 6rem;
+    border-top-left-radius: 6rem;
 }
 .subscribe{
     border: none;
@@ -207,8 +207,8 @@ transition-duration: 1s;
     background-color: brown;
     color: white;
     font-size: 2rem;
-    border-bottom-right-radius: 3rem;
-    border-top-right-radius: 3rem;
+    border-bottom-right-radius: 6rem;
+    border-top-right-radius: 6rem;
 }
     /*footer  div end form here */
 /*RWD start from here */
@@ -227,7 +227,7 @@ html{font-size: 62.5%;}
     html{font-size: 34.5%;}
 }
 @media all and (max-width:500px) {
-    html{font-size: 26.5%;}
+    html{font-size: 20.5%;}
 }
 /*RWD end  from here */
 
